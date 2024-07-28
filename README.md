@@ -6,8 +6,7 @@ I created this SQL project to have the most significant data taken from the Scho
 </br>
 /* Required for using School database */ </br>
 use School; </br>
-![image](https://github.com/user-attachments/assets/cd2263a4-0830-4362-b424-b0d85f67683c)
-
+![image](https://github.com/user-attachments/assets/7281f9cc-aac7-432a-bc36-2576a3913122)
 </br>
 /* Display all data from "Program" table */</br>
 SELECT *  </br>
