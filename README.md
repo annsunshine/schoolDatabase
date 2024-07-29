@@ -191,3 +191,6 @@ SELECT idStudent, dateStart, language
 FROM dbo.OnlineCourse
 ```
 ![image](https://github.com/user-attachments/assets/7b396caf-5c56-4814-a950-4fe57d07d493)
+
+___
+![school](https://github.com/user-attachments/assets/3bc7bbc2-8114-4a0b-95e1-5324328c3c19)
